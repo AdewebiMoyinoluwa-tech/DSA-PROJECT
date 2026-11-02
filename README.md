@@ -29,6 +29,3 @@ WHEN A = B
 
 
 <img width="1280" height="720" alt="WIN_20261023_20_33_15_Pro" src="https://github.com/user-attachments/assets/3816062b-31f2-462f-ae49-bf06224735a5" />
-
-
-
